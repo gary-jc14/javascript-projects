@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-This repository contains a collection of JavaScript projects completed as part of my software development training.
+This repository contains a collection of JavaScript projects completed as part of my web and software development training.
 
 ## About
 
